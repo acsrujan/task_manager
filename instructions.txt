@@ -1,0 +1,7 @@
+Instructions:
+
+1. Run test.sql for database
+2. Change location in config file as required.
+3. Change Database credentials in database.php
+
+
